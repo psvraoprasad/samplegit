@@ -1,0 +1,2 @@
+this is first version of git4version file
+git4version.txt

@@ -1,0 +1,2 @@
+this is first version of git3version file
+git3version.txt
